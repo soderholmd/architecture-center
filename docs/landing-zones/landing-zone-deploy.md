@@ -53,6 +53,9 @@ The following table outlines the key roles for each of the cloud operating model
 
 The following options provide an opinionated approach to deploy and operate the [Azure landing zone conceptual architecture](/azure/cloud-adoption-framework/ready/landing-zone#azure-landing-zone-conceptual-architecture) as detailed in the Cloud Adoption Framework. Depending upon customizations, the resulting architecture might not be the same for all the options listed here. The differences between the options are how you deploy the architecture. They use differing technologies, take different approaches, and are customized differently.
 
+> [!IMPORTANT]
+> Make sure you have reviewed and completed the [prerequisites](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-ALZ-Pre-requisites) before deploying Azure Landing Zones.
+
 | Deployment option | Description |
 | --- | ---|
 | [Azure landing zone Portal accelerator](/azure/cloud-adoption-framework/ready/landing-zone/#azure-landing-zone-accelerator) | An Azure portal-based deployment provides a full implementation of the conceptual architecture, along with opinionated configurations for key components, such as management groups and policies. |
